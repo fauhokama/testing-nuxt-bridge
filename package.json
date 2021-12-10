@@ -12,5 +12,10 @@
     "@nuxt/bridge": "npm:@nuxt/bridge-edge",
     "core-js": "^3.9.1",
     "nuxt-edge": "latest"
+  },
+  "engines": {
+    "npm": "please-use-yarn",
+    "yarn": ">= 1.22",
+    "node": "^16"
   }
 }
