@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "nuxi dev",
     "generate": "nuxi generate",
-    "start": "node .output/server/index.mjs"
+    "start": "node .output/server/index.mjs",
+    "typecheck": "nuxi typecheck"
   },
   "dependencies": {},
   "devDependencies": {
